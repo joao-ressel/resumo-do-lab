@@ -17,3 +17,20 @@ Tabela de porcentagem de SLA e os tempos de inatividade que o recurso vai ter
 
 Na criação de um maquina virual há opções de disponibilidade, como zona de disponibilidade, conjunto de dimensionamento de maquinas virtuais e conjuntos de disponibilidade. Que vão chegar no resultado da porcentagem do SLA
 Criação de conta de armazenamento - Estrategia de replicação - opção de amarzenamento com redundancia (GRS, LRS ZRS, GZRS), tudo isso influencia na disponibilidade das aplicações, no SLA e no custo.
+
+
+## Laboratório 3
+
+Criação de maquina virtual
+Tipo de imagem - influencia o tamanho/custo por mes
+Discos
+Redes virtuais
+Gerenciamento
+Monitoramento
+
+Criação de banco de dados
+depende de um servidor (simbolico)
+retona um custo mensal pela calculadora
+
+Infraestrutura como serviço demanda ainda mais do lado do cliente com manutenção e configurações
+e o modelo com menor demanda é o software como serviço
